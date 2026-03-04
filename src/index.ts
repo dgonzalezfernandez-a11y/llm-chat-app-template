@@ -75,7 +75,7 @@ async function handleChatRequest(
 				stream: true,
 			},
 			{
-				Uncomment to use AI Gateway
+				//Uncomment to use AI Gateway
 				 gateway: {
 				   id: "gateway-test", // Replace with your AI Gateway ID
 				   skipCache: false,      // Set to true to bypass cache
